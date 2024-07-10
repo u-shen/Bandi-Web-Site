@@ -7,9 +7,9 @@ I tried not to use css as much as possible.
 
 # Gallery
 
-![alt text](./assets/image1.jpg)
-![alt text](./assets/image2.jpg)
-![alt text](./assets/image3.jpg)
-![alt text](./assets/image4.jpg)
-![alt text](./assets/image5.jpg)
+![alt text](./assets/image1.png)
+![alt text](./assets/image2.png)
+![alt text](./assets/image3.png)
+![alt text](./assets/image4.png)
+![alt text](./assets/image5.png)
 [ See In The Fly ](https://u-shen.github.io/Bandi-Web-Site/#)
