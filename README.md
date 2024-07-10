@@ -15,4 +15,6 @@ I tried not to use css as much as possible.
 ![alt text](./assets/image6.png)
 ![alt text](./assets/image7.png)
 
-## [ See In The Fly ](https://u-shen.github.io/Bandi-Web-Site/#)
+<div style="text-align: center;">
+ **[ See In The Fly ](https://u-shen.github.io/Bandi-Web-Site/)**
+</div>
