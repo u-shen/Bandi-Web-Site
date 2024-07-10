@@ -214,3 +214,32 @@ input[type="email"] {
 input[type="email"]::placeholder {
   color: white;
 }
+/* end Blog */
+/* Start Footer */
+.footer {
+  background-color: var(--dark-color);
+}
+.footer p span {
+  color: var(--red-color);
+}
+small span {
+  color: var(--yellow-color);
+}
+.icons li svg {
+  border-radius: 50%;
+  padding: 10px;
+  color: var(--light-color);
+}
+.facebook {
+  background-color: #1877f2;
+}
+.twitter {
+  background-color: #1da1f2;
+}
+.linkdein {
+  background-color: #1877f2;
+}
+.youtube {
+  background-color: #ff0000;
+}
+/* End Footer */
